@@ -16,5 +16,10 @@ namespace PresentacionGUI
         {
             InitializeComponent();
         }
+
+        private void BtnConsultar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
